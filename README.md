@@ -5,7 +5,7 @@
 
 Now includes **Dark Mode**
 
-[View Demo](https://sproogen.github.io/modern-resume-theme/)
+[View Demo](https://jojoldu.github.io/)
 
 ![img](screenshot.png)
 
